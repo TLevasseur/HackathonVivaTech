@@ -1,0 +1,2795 @@
+{
+    "data": {
+        "elements": {
+            "pageInfo": {
+                "nextCursor": "MTE3MDA="
+            },
+            "nodes": [
+                {
+                    "id": "RXhoaWJpdG9yXzEwMzk3",
+                    "name": "0WI audio",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/731f865a8de2e94f523c91a77b05d7a804dc9642.jpeg",
+                    "description": "0WI redefines interactive audio and listening experience - - Meet us at the Orange Stand @Vivatech",
+                    "booth": "M07-050",
+                    "websiteUrl": "",
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#entertainment",
+                        "#lifestyle",
+                        "#media",
+                        "#IoT",
+                        "#funfunfun"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDc0",
+                    "name": "12CM, INC.",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "G08-009",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyMjM=",
+                    "name": "2Spark",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/e7238844c78e37d488cd07c7cf8ed6dffc54d3cc.png",
+                    "description": "Successfully deploy transformations throughout your organization... in just 1 minute per day!2Spark is an online platform that engages your employees in the transformation of your organization by asking 2 questions per day, every day.Our technology: an innovative monitoring and management tool encapulating gamification and cognitive science to create a unique user experience.The result: lasting retention of change and the ability to target weaknesses in any one of your thousands of employees.",
+                    "booth": "H36",
+                    "websiteUrl": "www.2spark.com",
+                    "address": {
+                        "type": "HOME",
+                        "street": "96 Boulevard Haussmann",
+                        "city": "Paris",
+                        "zipCode": "75008",
+                        "state": null,
+                        "country": "France"
+                    },
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "@2Spark_company"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "@2Spark.Company"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#nexttechs",
+                        "#peoplematter",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 5
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMDM3",
+                    "name": "360Learning",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/179139d28f78f322043cd24a0594f074607970d1.jpeg",
+                    "description": "360Learning is an elearning platform that allows companies and universities to create online courses easily, without any technical skills. 360Learning is used by more than 1300 companies such as Criteo, Havas, Carrefour or Boucheron to boost their digital transformation.",
+                    "booth": "C23-003",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#civictech",
+                        "#education",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDg1",
+                    "name": "360Moms",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/2c55d91ef2fade4954e04e5cf502702b4c9ecef0.jpeg",
+                    "description": "360Moms is an online platform with a fresh and authentic approach to inspire and connect mothers in the Arab world, and give them empowerment over their parenting decisions. ",
+                    "booth": "G08-023",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#startupacademy",
+                        "#funfunfun",
+                        "#paris2024",
+                        "#positiveimpact",
+                        "#womenrock"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk4MTA=",
+                    "name": "3D VIEW",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/1318bd59926c2106ea10cf2e476a2af0d3ef7064.jpeg",
+                    "description": "3D VIEW offers a SaaS solution for companies wishing to offer a new way to showcase their products, in 360 environments. Via paper prints or websites, visitors land in immersive virtual shops where they can see products in predesigned setups, purchase them, and more!",
+                    "booth": "M11-040",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#marketing",
+                        "#retail\u0026ecommerce",
+                        "#AR\u0026VR",
+                        "#funfunfun"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyMzI=",
+                    "name": "3DRudder",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/10f7dc84ffa33e3aaf6777a433b629edba382315.jpeg",
+                    "description": "3dRudder design foot-powered VR, gaming and 3D motion controllers, used while seated. Intuitive, natural, anyone can use them in matters of seconds. Hands are free to do more. You\u0027re more productive, more creative or have more fun.",
+                    "booth": "G20-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#entertainment",
+                        "#data",
+                        "#hardware",
+                        "#IoT",
+                        "#nexttechs"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExODg3",
+                    "name": "3DRudder",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/c9358d4e6573e7a87a878adc65a8947f50d91f9f.jpeg",
+                    "description": "3dRudder design foot-powered VR, gaming and 3D motion controllers, used while seated. Intuitive, natural, anyone can use them in matters of seconds. Hands are free to do more. You\u0027re more productive, more creative or have more fun.",
+                    "booth": "J34-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#entertainment",
+                        "#data",
+                        "#hardware",
+                        "#IoT",
+                        "#nexttechs"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExODUx",
+                    "name": "3oun",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/ac143f1c3931bb7fcabd3b54d4e3bc7a73097902.jpeg",
+                    "description": "3oun is an on-demand mobile application for home maintenance services. we are connecting household owners with near by vetted service providers in  seamless few clicks, ",
+                    "booth": "G08-024",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#smartcities",
+                        "#artificialintelligence",
+                        "#IoT",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk2NTA=",
+                    "name": "42 Technologies",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/4c5da2bcb2909a5de74dda27ac9aeb85d2994bdd.jpeg",
+                    "description": "42 is an all-in-one data platform made for retailers. Our cloud-based software uses the latest data processing technology to provide an intuitive dashboard for live eComm, POS, merchandising, and inventory data. Our customers include AllSaints, David Yurman, and Rebecca Minkoff.",
+                    "booth": "M20-002",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#luxury",
+                        "#retail\u0026ecommerce",
+                        "#artificialintelligence",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODQ0",
+                    "name": "42tea",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/76cea5a47d227faa43727ef383fd7cf7538bb136.jpeg",
+                    "description": "42tea transforms each cup of tea in a delightful moment thanks to a smart connected cube. We\u0027ll guide you throughout each step of preparation with unique recommendations calculated for your taste. Our wide range of organic teas will satisfy all palates: novices as amateurs.",
+                    "booth": "D28-005",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#food\u0026agribusiness",
+                        "#lifestyle",
+                        "#retail\u0026ecommerce",
+                        "#artificialintelligence",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk1ODI=",
+                    "name": "87 seconds",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/7738eb5bc86e9e743a2a686a7e8ae981f915d9ee.jpeg",
+                    "description": "We are a fresh and creative team, ready to map out your video strategy.87seconds is a pan-european creative agency specialised in video production and video marketing strategy, with offices in Brussels (HQ), Paris, Lyon, Geneva, Amsterdam and Madrid.",
+                    "booth": "F36-002",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#media"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMDMw",
+                    "name": "A Robotic Life",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/ae5c358e23af37b1fcfd8f3904e04b53762a6c67.jpeg",
+                    "description": "A Robotic Life, we develop, create and design Dumy, a family robot that protects, accompanies, helps all members of the household to simplify their day to day, also available for companies, education centers and events",
+                    "booth": "G20-002",
+                    "websiteUrl": "www.aroboticlife.com",
+                    "address": {
+                        "type": "HOME",
+                        "street": null,
+                        "city": null,
+                        "zipCode": null,
+                        "state": null,
+                        "country": "Andorra"
+                    },
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "https://twitter.com/Project_Dumy"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "https://www.facebook.com/ProjectDumy/"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#education",
+                        "#artificialintelligence",
+                        "#data",
+                        "#IoT",
+                        "#robotics"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwMzU4",
+                    "name": "A+Be",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/6f918c1506f730f1f0386602bb1a576809e00a17.png",
+                    "description": "A+Be is a mobile scanning App that can recognize pharma packagings as they are, without tags, and trigger on-screen content matching the very drug treatment and/or condition of the patient. Packagings as a Direct Media Channel to patients, caregivers and doctors! Visit us at BOOTH C11-001 in the startup corner!",
+                    "booth": "C11-001",
+                    "websiteUrl": "http://www.Aplus.be",
+                    "address": {
+                        "type": "HOME",
+                        "street": null,
+                        "city": null,
+                        "zipCode": null,
+                        "state": null,
+                        "country": null
+                    },
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "@Aplus_be"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#health\u0026wellbeing",
+                        "#lifestyle",
+                        "#marketing",
+                        "#AR\u0026VR"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk1OTg=",
+                    "name": "A.I.Mergence",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/8598a38f7898555b7080584979b0cbcee17144c6.jpeg",
+                    "description": "A.I.Mergence is a start-up company specialized in Artificial Intelligence and Autonomous Robotics. We are currently conceiving the first smart robot dedicated to prevent, alert, and protect the house from intrusions, home-jacking and domestic incidents.",
+                    "booth": "M07-002",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#artificialintelligence",
+                        "#data",
+                        "#IoT",
+                        "#robotics"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNDA0",
+                    "name": "A2L Consultants",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/0e7dd9fb7bbb9f17293749e9dcb579e0527ded88.jpeg",
+                    "description": "A2L is an expert company in data management and maintenance engineering, particularly in predictive maintenance in Transport,Energy and Defense industries. We have very innovative approach for wear modelling systems. We have strong knowledge in aftermarket service data analysis.",
+                    "booth": "M15-027",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#industry",
+                        "#smartcities"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODU5",
+                    "name": "ABEEWAY",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/1a188fb841b86b4e5d2756ccbc0fe1e6ac08767e.jpeg",
+                    "description": "Abeeway is offering very low power geolocation solutions, using the benefits of Low Range Wide Area Network (LoRa), from the trackers to the application and data processing in order to track people, animals and objects, and to protect assets and data. ",
+                    "booth": "J34-002",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#retail\u0026ecommerce",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjk0",
+                    "name": "ACRETION",
+                    "logoUrl": null,
+                    "description": "ACRETION boosts business performance with its collaborative employee engagement platforms, helping companies address key issues. Our digital co-building methodology makes operational value systems a reality by onboarding all stakeholders and managing cultural transformation",
+                    "booth": "C16-040",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk2NzA=",
+                    "name": "ADVTECH SAS",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/411a8f4d1ba1b5547a734d0e07aad7a26da217b0.jpeg",
+                    "description": "ADVTECH develops and markets a range of wind turbines based on innovative rotor technology. This technology offers significantly better performance than current technologies, allowing the production of machines with slower speed rotation with state of the art efficiency.",
+                    "booth": "M30-002",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#energy",
+                        "#industry",
+                        "#smartcities",
+                        "#drones"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMDM1",
+                    "name": "AF Travel Assistant*",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/0423d1fb2c5e6990101c99150618b2c0848d22b4.jpeg",
+                    "description": "...",
+                    "booth": "N20-003",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#marketing",
+                        "#mobility",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3MDA=",
+                    "name": "AF83",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/aa39c6ff23558c4f20c0396feb98650471e137d6.jpeg",
+                    "description": "We help companies to shape and deliver their digital transformation, using strategy, design thinking, agile methodologies and rapid-development techniques. We bring designers, developers and creative technologists, involving clients and final users to create innovative solutions.",
+                    "booth": "M31-024",
+                    "websiteUrl": "af83.io",
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#food\u0026agribusiness",
+                        "#luxury",
+                        "#mobility",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjAw",
+                    "name": "AFIC",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "F37",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#energy",
+                        "#finance\u0026insurance",
+                        "#industry",
+                        "#data",
+                        "#startupacademy"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjcx",
+                    "name": "AFRC",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDk5",
+                    "name": "AFRIMARKET",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "G08-044",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzAx",
+                    "name": "AG2R LA MONDIALE",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODQ3",
+                    "name": "AGORA OPINION",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/9a7dc10cacff28809cf118d5e35fa28873d87215.jpeg",
+                    "description": "Agora Opinion - Real Time opinion tracking - Measure, analyze and improve custumer experience and employees\u0027 mood",
+                    "booth": "D28-018",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#civictech",
+                        "#industry"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwMzc5",
+                    "name": "AIR SPACE DRONE",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/2fffe998a9d805c759f93f18f27900a4b95decf8.jpeg",
+                    "description": "Air Space Drone develops the first collaborative Unmanned Traffic Management System: pre-flight planning and authorizations, in-flight real time tracking and drone avoidance collision, post-flight analysis. We provide SaaS solutions from small scale to full country level.",
+                    "booth": "C07-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#drones"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk2MzI=",
+                    "name": "AIR-ADAPT",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/1d1fdeebd644d8eadc64995fc1b2cb7b295fa247.jpeg",
+                    "description": "AIR-ADAPT develops solutions to optimize thermal comfort and energy efficiency. Being too cold/too hot directly affects workplace\u0027s productivity. AIR-ADAPT develops the most accurate thermal comfort sensor, integrating predictive algorithms to estimate specific factors(ex usage) ",
+                    "booth": "M15-013",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#energy",
+                        "#smartcities",
+                        "#hardware",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3NDI=",
+                    "name": "AIRBORNE CONCEPT",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/fdca073d85479a3ddb2cf4e747bf0a2425ce426e.jpeg",
+                    "description": "AIRBORNE CONCEPT is specialized in drone services, from design and manufacturing to remote-pilot training. Our engineers have created 2 UAVs : Drop\u0027n Drone, the aircraft deployable drone ; and Up-start Drone, the convertible drone (both vertical and horizontal flights).",
+                    "booth": "C07-002",
+                    "websiteUrl": "www.airborne-concept.com",
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#smartcities",
+                        "#artificialintelligence",
+                        "#drones",
+                        "#robotics"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMDgx",
+                    "name": "AIRCAM",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/3eb0a23b48e15bad552fe7d7906b57ce4b4e2c11.jpeg",
+                    "description": "Airport Remote Sensing small UAV Services Leveraging Airbus experience in airport operations \u0026 traffic management, to develop UAV applications and regulations for highly restricted airspaces",
+                    "booth": "C07-030",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#artificialintelligence",
+                        "#drones",
+                        "#hardware",
+                        "#robotics"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3Njc=",
+                    "name": "ALERION",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/26bbbd3e58b8fb43a5d97d31a5326735a7101441.jpeg",
+                    "description": "Smart and advanced solutions for and by drones and other unmanned vehicles. Development of cyber-physical components for UAVs. Integration of entire systems from mission specific components up to the SIG.",
+                    "booth": "D31-005",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#artificialintelligence",
+                        "#drones",
+                        "#IoT",
+                        "#startupacademy"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMTc4",
+                    "name": "ALL INDUSTRIES",
+                    "logoUrl": null,
+                    "description": "All Industries is the first Italian startup to develop chatbot: personal assistant able to understand users intents and to propose them the best solutions. These systems are based on Artificial Intelligence able to interpret dialogs without any syntactic or semantic constraints.",
+                    "booth": "C16-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExNzg3",
+                    "name": "ALX Systems SA",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/0bf595a401939b9317f1f688caa9377516f65dee.jpeg",
+                    "description": "We provide autonomous UAV securely controlled through the cloud.Our solution provides a powerful framework that enables our customers to build rich application quickly and securely",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#energy",
+                        "#artificialintelligence",
+                        "#drones",
+                        "#nexttechs",
+                        "#robotics"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk1Mzc=",
+                    "name": "ALZOHIS",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/4d0cb0fd7bb989d762b3b1e3401c512cc0547c82.jpeg",
+                    "description": "The first reliable and non-invasive blood test to diagnose Alzheimer and other neurodegenerative diseases, for patients suffering from mild cognitive impairments. Alzohis fosters an earlier diagnosis in order to provide better care.",
+                    "booth": "C11-002",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#health\u0026wellbeing",
+                        "#industry",
+                        "#artificialintelligence",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyMTQ=",
+                    "name": "AMA",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/84d63d9d93d9e42086d9fd6e6cb5567fab1039e1.jpeg",
+                    "description": "Xpert Eye is a mobile, hands-free and secured videoconferencing solution for smartglasses.",
+                    "booth": "M16-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#health\u0026wellbeing",
+                        "#AR\u0026VR",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODYw",
+                    "name": "ANSE Technology",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/934cb15ed102cb4fed3c178b132482a4683217a5.jpeg",
+                    "description": "ANSE TECHNOLOGY created in August 2012 is a young innovative company. We are specialized in digital connected TV and embedded computing. We have developed UpTV, a card that turns your TV into connected TV and social TV.",
+                    "booth": "J34-003",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#hospitality",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3NjY=",
+                    "name": "ANTESCOFO",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/c0edea0f4a9fd1cb1b4cc938bccf224b675ee582.jpeg",
+                    "description": "Empowering mobile devices with musical AI to become your everyday musical companion, like an orchestra or a band.Antescofo mobile applications leverage music practice for all amateur musicians, including singers, to the joy of playing music virtually together, alone at home!",
+                    "booth": "D31-004",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#entertainment",
+                        "#media",
+                        "#artificialintelligence",
+                        "#startupacademy"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk2NzI=",
+                    "name": "APIX Analytics",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/58f89cacaf34cb25e2309a7970bb097ae2b42b9b.jpeg",
+                    "description": "APIX Analytics develops and manufactures a new generation of multi-gas analyzers out with conventional technologies and applying to green energy analysis such as Biogas and Biomethane.",
+                    "booth": "M30-004",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#energy",
+                        "#industry",
+                        "#nexttechs",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk2NzM=",
+                    "name": "ARIA TECHNOLOGIES SA",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/e22d08583b6bdeca3f25d3e1ec21773a4851ec04.jpeg",
+                    "description": "ARIA designs numerical simulation systems allowing to represent and forecast air quality in cities and industrial plants, worldwide. These systems are useful to inform the citizens and to orient public policies and company policies towards sustainable solutions.",
+                    "booth": "M30-005",
+                    "websiteUrl": "www.aria.fr",
+                    "address": null,
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "#ariatechnologie"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#industry",
+                        "#mobility",
+                        "#smartcities"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk0NjE=",
+                    "name": "ARIONEO",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/9c7aa8e2ee27fec7d8fd5681480e404f185f76cd.jpeg",
+                    "description": "We develop innovative devices that monitor biometric and sport parameters on racehorses. We create high-quality information through the strength of our algorithms.Equine Big Data expert. ",
+                    "booth": "M12-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#marketing",
+                        "#data",
+                        "#hardware",
+                        "#IoT",
+                        "#paris2024"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNTg5",
+                    "name": "ARTECH MAGIC XPERIENCE",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/a9e8db039391e269ecbbad65b512b7319fb0bbaa.jpeg",
+                    "description": "Magic Xperience the Augmented Reality Company for objects telling stories.We connect your chocolate, sugar, paper, cardboard, plastic and wooden products and turn them interactive. Over 150 products \u00a0available in 2017. Join the Xperience !",
+                    "booth": "N12-013",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#entertainment",
+                        "#AR\u0026VR",
+                        "#data",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3ODE=",
+                    "name": "ARX",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/19856e7e9d38b867b3696cedc234c0beb118830d.jpeg",
+                    "description": "ARX is an Augmented Reality exercise solution for gyms.  It involves enhancing cardio exercise programmes with gamification with AR glasses.  We aim to transform the pain and boredom of traditional exercise for gym members into a fun and motivating game.",
+                    "booth": "G20-064",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#health\u0026wellbeing",
+                        "#AR\u0026VR"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODcy",
+                    "name": "AS PHARM SOFT",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/3f9652d89f487a2e8c1af505125fd185629f66f7.png",
+                    "description": "We provide softwares, mobile applications for :- healthcare professionals in Africa to help them improve their management and have more focus on patients satisfaction- patients to help them access easily and quickly information about medecines and hospitals. Our end-term goal is to create a blockchain for medecines tra\u00e7ability and patients medical files in Africa. --Nous d\u00e9veloppons des logiciels et applications pour :- Les professionnels de la sant\u00e9 en Afrique leur permettant ainsi de mieux g\u00e9rer leurs structures (pharmacies, cliniques etc.) et mieux se concentrer sur la satisfaction des patients- Les patients leur permettant d\u0027acc\u00e9der facilement et rapidement aux informations n\u00e9cessaires pour se soigner. Notre objectif final est de cr\u00e9er un blockchain sant\u00e9 pour la tra\u00e7abilit\u00e9 des m\u00e9dicaments et des dossiers patients en Afrique.",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#health\u0026wellbeing",
+                        "#mobility",
+                        "#blockchain",
+                        "#data",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzMx",
+                    "name": "ASK MONA",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/e926f6bf4fbcaa8e773007b79b40ece5fa54f68c.jpeg",
+                    "description": "Ask Mona is a chatbot that advices cultural venues on Facebook Messenger thanks to A.I.",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#hospitality",
+                        "#smartcities",
+                        "#artificialintelligence",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjcz",
+                    "name": "ASPertise",
+                    "logoUrl": null,
+                    "description": "ASPertise is a technology company that provides services in cybersecurity, Big Data and application development. With more than 30 programming languages and 130 potential IT experts, ASPertise leverages the cognitive strength of high potential people and consultants on the autistic spectrum.",
+                    "booth": "C16-028",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNTQx",
+                    "name": "ASSOUKA TELECOM",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/e33a60c1832478595e8c9c5a89e368e88592cdbd.jpeg",
+                    "description": "Assouka Telecom is the first Mobile Virtual Network Operator so far to propose on one SIM card local offers and Africa offers without a top-up. Both private and professionals (they have subsidiaries in Africa) can take a benefit of our postpaid offers. ",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#energy",
+                        "#food\u0026agribusiness",
+                        "#health\u0026wellbeing",
+                        "#paris2024"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwMzc2",
+                    "name": "AT\u0026T",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/901539336598d21fc49f0627314844551d691fdc.png",
+                    "description": "Business is changing every day. Companies need the agility to effectively compete and win in their industries. Our solutions help companies adapt to change in near real time and meet the evolving needs of tomorrow. Nearly 3.5 million businesses from the largest multinational corporations to small businesses turn to AT\u0026T. We work with companies in all major industries, including financial services, manufacturing, education, healthcare, retail, hospitality and government. www.business.att.com                                                                                                                                                                                                                                                                                             ",
+                    "booth": "J14",
+                    "websiteUrl": "www.business.att.com",
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#cybersecurity",
+                        "#retail\u0026ecommerce",
+                        "#IoT",
+                        "#nexttechs",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 20
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk1MTI=",
+                    "name": "ATECHSYS ENGINEERING",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/681e88f456abfd45096c944aa2d4c3d978dc4689.jpeg",
+                    "description": "Atechsys Engineering is a subsidiary of Atechsys Group. It develops on request autonomous technologies for its customers. Atechsys Engineering is on the drone market since 7 years. We work on strategic markets such as Logistic, Security and survey, Environment and health.",
+                    "booth": "M11-032",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#civictech",
+                        "#mobility",
+                        "#drones",
+                        "#nexttechs"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkzMzk=",
+                    "name": "AUDIOSPOT",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/15bc18ddb00b65983739638e6f5bc69f56757776.jpeg",
+                    "description": "AudioSpot offers to places opened to public a solution to guide and inform visitors on their smartphone or tablets, with tailored content depending on their profile and location, allowing to make practical, cultural or touristic information accessible to all, including disabled.",
+                    "booth": "M16-019",
+                    "websiteUrl": "www.audiospot.fr",
+                    "address": {
+                        "type": "HOME",
+                        "street": "31 Rue Ernest Renan",
+                        "city": "Issy-les-Moulineaux",
+                        "zipCode": "92130",
+                        "state": null,
+                        "country": "France"
+                    },
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "@audio_spot"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "Audiospot.fr"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#smartcities",
+                        "#AR\u0026VR",
+                        "#IoT",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNjYz",
+                    "name": "AUGMENTEO",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/7b8cd01552fbd8c233e80cb341bd507e3bca1d71.jpeg",
+                    "description": "Hackeo is a customizable paper chase system powered by an innovative gameplay using IoT and augmented reality, monitored by a web platform.",
+                    "booth": "D33-007",
+                    "websiteUrl": null,
+                    "address": {
+                        "type": "HOME",
+                        "street": null,
+                        "city": null,
+                        "zipCode": null,
+                        "state": null,
+                        "country": null
+                    },
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "hackeoarg"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "hackeoarg"
+                        }
+                    ],
+                    "phoneNumbers": [
+                        {
+                            "countryCode": 33,
+                            "label": "1",
+                            "type": "MOBILE",
+                            "number": "698461831",
+                            "formattedNumber": "+33 6 98 46 18 31"
+                        }
+                    ],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#education",
+                        "#entertainment",
+                        "#marketing",
+                        "#AR\u0026VR",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzQ5",
+                    "name": "AXA technology Services",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#cybersecurity",
+                        "#finance\u0026insurance"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODQ5",
+                    "name": "AXELEO",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/f50ee82164dd1ec712928a4d77df167b6ad00d3f.jpeg",
+                    "description": "Axeleo is the leading enterprise technology acceleration platform in France, supported by a partnership of over 40 entrepreneurs, and backed by BpiFrance\u0027s French Tech Acceleration Fund. ",
+                    "booth": "D28-024",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#cybersecurity",
+                        "#industry",
+                        "#mobility",
+                        "#artificialintelligence"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyNTI=",
+                    "name": "AXIBLE",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/da2f66045849bbc52c11e401694cc69d617cd4ca.jpeg",
+                    "description": "These past few years, Axible has been specializing in the design of connected devices, while conceiving\u00a0and developping\u00a0innovative solutions of\u00a0Smart Building, Smart Home and Digital Worplace.",
+                    "booth": "M11-003",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#hardware",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwMzgw",
+                    "name": "AXTER AEROSPACE",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/ca2f55bf7577154271bef2ce20b9b1090268de42.jpeg",
+                    "description": "AXTER AEROSPACE. Hybrid \u0026 Electric Propulsion systems and electric Energy Storage for aviation.",
+                    "booth": "C07-003",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#energy",
+                        "#mobility",
+                        "#drones"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNTg0",
+                    "name": "AYKOW",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/f3d1c737cbe1ffe8ab2d7b7b2aaed88af0c673ec.jpeg",
+                    "description": "Next generation Air Quality devices to measure, mitigate and purify dwellings, offices and vehicles.Air Quality is became a major issue for health. AYKOW has developed a range of technologie to reduce cost of the air purification with high performances and without maintenance.",
+                    "booth": "M11-004",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#health\u0026wellbeing",
+                        "#hardware",
+                        "#IoT",
+                        "#nexttechs",
+                        "#peoplematter"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExODc2",
+                    "name": "AYKOW",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/57fcc7142f39464d8d82d145e6182de3a364c8b0.jpeg",
+                    "description": "Next generation Air Quality devices to measure, mitigate and purify dwellings, offices and vehicles.Air Quality is became a major issue for health. AYKOW has developed a range of technologie to reduce cost of the air purification with high performances and without maintenance.",
+                    "booth": "J36-008",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#health\u0026wellbeing",
+                        "#hardware",
+                        "#IoT",
+                        "#nexttechs",
+                        "#peoplematter"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNjc3",
+                    "name": "Abibao",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/a57cfdebfda385ee8808ab63fa272cc2ba826a05.png",
+                    "description": "We collect safe and quality data from consumers by rewarding charities each time a survey is completed.",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#civictech",
+                        "#marketing",
+                        "#peoplematter",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExNzM2",
+                    "name": "Accor Hotels",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/c5fe4351d04d2f68896f35018914644c4927d394.png",
+                    "description": "Tourism \u0026 HospitalityA look at how digital transformation can redefine and enhance the Hospitality \u0026 Tourism sector in light of the important role played by both the sharing economy and disruptive hospitality.",
+                    "booth": "M21",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#hospitality"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 44
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMDY0",
+                    "name": "Accretio",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/b15a5bce54139e63ca20373588e0eab4de241dee.jpeg",
+                    "description": "Accretio est une digital workplace permettant d?accompagner la d\u00e9marche de transformation digitale RH des entreprises avec comme objectif ultime de f\u00e9d\u00e9rer et de lib\u00e9rer les \u00e9nergies des talents et les mettre au service de la performance globale des organisations.",
+                    "booth": "F38-009",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDIw",
+                    "name": "Accretio",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/576bf0c64fe43c5b347f5e71ff76af127b38f90f.jpeg",
+                    "description": "Accretio is an innovative HR digital workplace that supports the digital HR transformation of companies. Accretio\u0027s objective is to federate the energies and release talent to serve the overall performance of the organizations.",
+                    "booth": "M68",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#artificialintelligence",
+                        "#data",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDk4",
+                    "name": "Actility",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "G08-043",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk1NzI=",
+                    "name": "Adictiz",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/81cdc619fa4f3adc776ee2d0d194375706d8500a.jpeg",
+                    "description": "Adictiz \u00e9dite la solution SaaS N\u00b01 de cr\u00e9ation de jeux marketing personnalisables permettant aux grandes marques de recruter, d\u0027engager et de convertir leurs clients sur l\u0027ensemble des points de contacts de la relation client.",
+                    "booth": "C30-004",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#food\u0026agribusiness",
+                        "#luxury",
+                        "#media",
+                        "#retail\u0026ecommerce",
+                        "#funfunfun"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzIy",
+                    "name": "Adok",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyMzM=",
+                    "name": "Adok",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/d6af6e6acd2de7e94d82940965fbe9dd58b04440.jpeg",
+                    "description": "Adok is developing the next big thing in Human Machine Interactions. The Paris / San Francisco based Startup focuses on turning any surface into a tactile interactive display. It is able to do so, thanks to its proprietary technology, combining projection and image recognition.",
+                    "booth": "G20-003",
+                    "websiteUrl": "www.getadok.com",
+                    "address": {
+                        "type": "HOME",
+                        "street": "23/25 Rue Jean-Jacques Rousseau",
+                        "city": "Paris",
+                        "zipCode": "75001",
+                        "state": null,
+                        "country": "France"
+                    },
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#AR\u0026VR",
+                        "#hardware",
+                        "#IoT",
+                        "#nexttechs"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyODM=",
+                    "name": "Advanced Vector Analytics",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/a5227b882fb2deaf98e1ee82dbdba2439c6451f1.jpeg",
+                    "description": "Our solution of fine vibration sensing and analysis constantly monitors all important elements of the car and predicts failures before they appear by informing car owner or garage. If no actions followed and the failure occurred, it helps diagnosing the fault fast and precisely.",
+                    "booth": "M31-006",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#energy",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNjg1",
+                    "name": "Advenworks",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/93accc3247ae6c80fc8f2c2f35104d2cead7ab30.png",
+                    "description": "Advenworks is a network of talented video game crafters creating and publishing high-quality, addictive games. We want to put a daily dose of fun and excitement in every pocket by bringing together small teams of the most creative and passionate video game talents from all around the world.",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#education",
+                        "#entertainment",
+                        "#marketing",
+                        "#mobility",
+                        "#funfunfun"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3OTA=",
+                    "name": "Advir",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/2c737d38f0168400b797d6d9db5128ed540945e9.jpeg",
+                    "description": "Immersive, programmatic brand placements for VR and AR.",
+                    "booth": "M07-026",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#marketing",
+                        "#media",
+                        "#AR\u0026VR"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzcx",
+                    "name": "Adways",
+                    "logoUrl": null,
+                    "description": "Adways has developed the most innovative and easy-to-use cloud-based platform to create interactive videos. Add interactive elements and publish your video in a few clicks. With Adways create instantaneous personalized end engaging videos for digital marketing and communication.",
+                    "booth": "D21-005",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 5
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkzNTc=",
+                    "name": "Adways",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/cbc227b6484e5f65db2f3f59937eae466740ff7f.jpeg",
+                    "description": "Adways proposes the most innovative and easy-to-use cloud-based platform to create interactive videos. Add interactive elements and publish your video in a few clicks. Create instantaneous personalized videos for digital marketing and engaging formats for advertising.",
+                    "booth": "N12-022",
+                    "websiteUrl": "http://www.adways.com/",
+                    "address": null,
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "https://twitter.com/Adways_SAS"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "https://www.facebook.com/adways.sas/"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#entertainment",
+                        "#marketing",
+                        "#media",
+                        "#AR\u0026VR",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwMzQ2",
+                    "name": "Aelectra",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/019aff3e6972ceb819c9a8849004bd8cd34d6105.jpeg",
+                    "description": "In a smart and green city, intelligent wallpapers are used for the production of green heat. The technology behind is called \u0022aelectra\u0022 and can be linked to smart building solutions, local energy production and electrical storage systems. Renewable power can be used up to 100%.",
+                    "booth": "D39-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#energy",
+                        "#marketing",
+                        "#smartcities"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExMDEy",
+                    "name": "Aerogel Technologies, LLC",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/9dc45040199f57d23e04b0e6956c866ed4168f7c.jpeg",
+                    "description": "Aerogel Technologies makes ultralight superinsulating structural materials 10x lighter than plastics that are durable \u0026 machinable. Our Airloy materials make cars \u0026 planes lighter \u0026 more efficient while reducing noise \u0026 improving passenger comfort. Learn more at BuyAerogel.com.",
+                    "booth": "C07-033",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#energy",
+                        "#industry",
+                        "#drones",
+                        "#nexttechs",
+                        "#2050"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyMzQ=",
+                    "name": "Aerovinci",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/09825ccea9c369c03346cadb5ae1dd82ea8733b3.jpeg",
+                    "description": "AeroVinci makes the drone industry scalable by taking the human drone-operator completely out of the loop. Our patented fully autonomous system allows us to deliver aerial data for a fraction of the traditional cost for agriculture, inspections, surveillance and other industries.",
+                    "booth": "G20-004",
+                    "websiteUrl": "www.aerovinci.com",
+                    "address": null,
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "@aerovinci"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#food\u0026agribusiness",
+                        "#smartcities",
+                        "#data",
+                        "#drones",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 2
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzE1",
+                    "name": "Affily One",
+                    "logoUrl": null,
+                    "description": "Bam is a mobile app that allows the user to get from 10 to 90% discount for each payment made through the app. They have a network of partners (bars, snacks, restaurants etc). Bam is available mainly in the South of France, and will be deployed to the who",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzA4",
+                    "name": "Afrikwity",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/13b27a79c677349a048b373a1b4e5c2781720696.png",
+                    "description": "Afrikwity is a pioneering equity crowdfunding platform dedicated to Africa related innovative startups.By combining innovative technologies and deep expertise in finance, Afrikwity aims to fill the equity gap and to unlock the huge potential of African entrepreneurs!",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#finance\u0026insurance",
+                        "#positiveimpact",
+                        "#womenrock"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMzA5",
+                    "name": "Afrimalin",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjY5",
+                    "name": "Agorize",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "D35",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#hardware",
+                        "#nexttechs",
+                        "#peoplematter"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 14
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkzNTY=",
+                    "name": "Agripolis",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/ab423e4b8eebbd2568e1aadd6bd19b435f4e9e1b.jpeg",
+                    "description": "Agripolis is an innovative startup in urban agriculture, aiming to change our view on food and agriculture by producing organic food where people live, work or shop, at reasonable prices.",
+                    "booth": "M08-015",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODgx",
+                    "name": "Aguila Technologies",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/d6476bf770b51a653a22966bcbd5e64536c451a3.jpeg",
+                    "description": "AGUILA Technologies is an independent high-tech company, specializing in small-size, low-power consuming communicating electronic systems (Machine to Machine), including in particular geolocation. Recognized for its quality work and expertise, the company has unique expertise in all steps of producing technological products. More than 55 000 products exploit today a technology developed by AGUILA.",
+                    "booth": "E30-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#food\u0026agribusiness",
+                        "#mobility",
+                        "#smartcities",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMTM0",
+                    "name": "Air Liquide",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/7b48c92d1cea3ae4cb71ce226c1b385e95841e0c.jpeg",
+                    "description": "The world leader in gases, technologies and services for Industry and Health, Air Liquide is present in 80 countries with approximately 67,000 employees and serves more than 3 million customers and patients. Oxygen, nitrogen and hydrogen are essential small molecules for life, matter and energy. They embody Air Liquide\u2019s scientific territory and have been at the core of the company\u2019s activities since its creation in 1902.Air Liquide\u2019s ambition is to lead its industry, deliver long term performance and contribute to sustainability. The company\u2019s customer-centric transformation strategy aims at profitable growth over the long term. It relies on operational excellence, selective investments, open innovation and a network organization implemented by the Group worldwide. Through the commitment and inventiveness of its people, Air Liquide leverages energy and environment transition, changes in healthcare and digitization, and delivers greater value to all its stakeholders",
+                    "booth": "G13",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#health\u0026wellbeing",
+                        "#industry",
+                        "#AR\u0026VR",
+                        "#IoT",
+                        "#peoplematter"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 21
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk4MTE=",
+                    "name": "Air Serenity",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/26f0ae9efb7f4df032b153ddde20c26820d873e3.jpeg",
+                    "description": "Breathe better! Air Serenity purifies air in your home with a new technology called Aurora, which is 50 times more efficient than previous generations!",
+                    "booth": "M11-041",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#IoT",
+                        "#paris2024",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 1
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExNzMx",
+                    "name": "Air-France KLM",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/d75138e5d07f4d118900b9a3fff90adb3f67be88.png",
+                    "description": "Future of Travel Big Data, VR, AI, team digitalization are the 4 topics developed at the Air France-KLM lab to dive into the Future of Travel",
+                    "booth": "N20",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#mobility"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 30
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExNzUx",
+                    "name": "Aira",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/c1179d5a6ca931c20c39f32a1d99885019d3d373.jpeg",
+                    "description": "Aira is on a mission to give the blind community super powers.  We\u2019ve built a service that leverages the convergence of technology trends like wearable, widespread bandwidth and human-assisted AI to power an intelligent Aira platform.  It\u2019s an API for the blind that enables greater mobility and independence for the blind and visually impaired.",
+                    "booth": "J14-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#mobility",
+                        "#retail\u0026ecommerce",
+                        "#artificialintelligence",
+                        "#AR\u0026VR",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzExNzMy",
+                    "name": "Airbus",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/7b89f01973c5314dcb784b8c426d7cb18f97c8bd.png",
+                    "description": "Aeronautic Innovation has always been a part of Airbus\u2019 DNA, focusing on specific research and development areas that are going to be the key drivers in building the future of flight.",
+                    "booth": "C07",
+                    "websiteUrl": "http://www.airbusventures.vc/",
+                    "address": {
+                        "type": "HOME",
+                        "street": null,
+                        "city": null,
+                        "zipCode": null,
+                        "state": null,
+                        "country": null
+                    },
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#industry",
+                        "#nexttechs"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 34
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDkw",
+                    "name": "Airshop",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "G08-032",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk2NzE=",
+                    "name": "Airthium",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/f4d5635f14a3277dba754b59ac6bb120bbe83fd8.jpeg",
+                    "description": "We make compressed air energy storage units, rated at 1 MW and more, with 70% roundtrip efficiency, 25 year lifetime, and at a cost below 100 euros/kWh for more than 4 hour duration storage. Our units can also produce cooling power, at no additional cost.",
+                    "booth": "M30-003",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#energy",
+                        "#industry",
+                        "#smartcities",
+                        "#hardware"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODE0",
+                    "name": "Akoustic Arts",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/8268d3b1e8d1ecf7a3f8da9e6a7758e9b356bc96.jpeg",
+                    "description": "Akoustic Arts is a French startup dedicated to sound innovation. This year, we launch our directional sound technology with the \u00abA\u00bb speaker.The \u00abA\u00bb creates a precise beam of sound: when standing in this beam, you can listen to your audio contents; out of it: no sound whatsoever!",
+                    "booth": "G20-006",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#marketing",
+                        "#retail\u0026ecommerce",
+                        "#hardware",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMTU2",
+                    "name": "Akoustic Arts",
+                    "logoUrl": null,
+                    "description": "Akoustic Arts is a French startup dedicated to directional sound. In 2017, we are proud to launch the \u00ab A \u00bb, our directional sound speaker that creates a very precise beam of sound. Inside of the beam, listen to all your audio contents (music, video\u2026). Outside of the beam\u2026 no sound whatsoever!",
+                    "booth": "G34-009",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkyNTE=",
+                    "name": "Alancienne",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/5c53aaa4f525506703a710de8d4d4cd622286b04.jpeg",
+                    "description": "Fresh and organic produce delivered directly from the local and sustainable farms to the fridge",
+                    "booth": "M11-001",
+                    "websiteUrl": "www.alancienne.co",
+                    "address": null,
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "alancienneco"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "alancienneco"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#food\u0026agribusiness",
+                        "#retail\u0026ecommerce",
+                        "#2050",
+                        "#peoplematter",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjU5",
+                    "name": "Alibaba Group",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/09ce2c98249a03631b8f161f4829a537b708b20a.png",
+                    "description": "ALIBABA GROUP\u0027S MISSION IS TO MAKE IT EASY TO DO BUSINESS ANYWHERE.We provide the fundamental technology infrastructure and marketing reach to help merchants, brands and other businesses that provide products, services and digital content to leverage the power of the Internet to engage with their users and customers. Our businesses are comprised of core commerce, cloud computing, digital media and entertainment, innovation initiatives and others. Through investee affiliates, we also participate in the logistics and local services sectors. ",
+                    "booth": "G11",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#artificialintelligence",
+                        "#AR\u0026VR",
+                        "#data",
+                        "#hardware",
+                        "#startupacademy"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 24
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkzOTU=",
+                    "name": "Allocab",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/ff4cc8db822554c989fb12026dce3afcc6f7335a.jpeg",
+                    "description": "With Allocab just tap to request a ride, with professionals drivers. Allocab offers the first network in France (100 cities, 110 train stations and 40 airports). Booking in few seconds, availiable in immediate or in advance from the web site and the app.",
+                    "booth": "C08-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#cybersecurity",
+                        "#mobility",
+                        "#artificialintelligence",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzkzNjQ=",
+                    "name": "Alsid",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/6f8e99f84bac41123d987e3c678c32f3c3bf8de0.jpeg",
+                    "description": "ALSID conceives transparent and cost-effective solutions which aim at disrupting all cyberattacks, independently of their specific tactics, by defending their common denominator: the Active Directory infrastructures that support all of our customers\u0027 vital assets.",
+                    "booth": "M15-003",
+                    "websiteUrl": "www.alsid.eu",
+                    "address": null,
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "AlsidOfficial"
+                        },
+                        {
+                            "type": "FACEBOOK",
+                            "value": "AlsidOfficial"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#cybersecurity",
+                        "#data",
+                        "#2050",
+                        "#positiveimpact"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 3
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwODc0",
+                    "name": "Alter \u0026 Go",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/b1e313ad7177f53f30ab8f47c63ddc798f25ab49.png",
+                    "description": "Dans le cadre de leurs d\u00e9marches de concertation, nous aidons nos clients \u00e0 organiser l\u2019appropriation de leurs projets par les parties prenantes et ainsi \u00e0 cr\u00e9er de la valeur et de l\u2019enthousiasme sur les territoires.Nous proposons des m\u00e9thodes innovantes, des outils digitaux comme Concerto, et des offres allant de l\u2019\u00e9tude de contexte \u00e0 la strat\u00e9gie et l\u2019animation de d\u00e9marches de concertation et communication associ\u00e9e.",
+                    "booth": "",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#energy",
+                        "#industry",
+                        "#mobility",
+                        "#paris2024",
+                        "#peoplematter"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3NzA=",
+                    "name": "Ambiciti",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/578f62597ba4ffc48a91317276611b36e05298ed.jpeg",
+                    "description": "Ambiciti is the first worldwide platform for Actionnable Environmental Intelligence for people, for business and for government. Our technology platform integrates  and synthesizes environmental data in order to generate real-time, street level exposure forecasts for everyone.",
+                    "booth": "D31-010",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#civictech",
+                        "#energy",
+                        "#health\u0026wellbeing",
+                        "#industry"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyMjky",
+                    "name": "Ametix",
+                    "logoUrl": null,
+                    "description": "",
+                    "booth": "B23",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#finance\u0026insurance",
+                        "#data",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 20
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3ODU=",
+                    "name": "Anamn\u00e8se",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/aecfff4c8151e0dc3680984ba338437deca89b81.jpeg",
+                    "description": "Anamnese is an artificial intelligence that helps doctors make better diagnosis. Before the consultation, it conducts an interview with the patient, in a person to person manner, emulating a practitioner\u0027s reasoning. The time thereby saved, empowers doctors.",
+                    "booth": "H37-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#health\u0026wellbeing",
+                        "#lifestyle",
+                        "#artificialintelligence",
+                        "#data"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3MjE=",
+                    "name": "Angus.ai",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/c75240f957252901c8f177f95b818bb3fedeea5a.jpeg",
+                    "description": "Video monitoring to boost in-store conversion.We use cameras to detect specific visitor behaviours in shops and trigger real time notifications to sales representatives, to help them boost conversion in specific store areas.",
+                    "booth": "N16-035",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEwNjMy",
+                    "name": "Anova",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/9409da2abbf182d5a270370891faef75e0bf88f0.png",
+                    "description": "We build the future of Artificial Intelligence with corporate players by leveraging our expertise in Data Science and Strategy.",
+                    "booth": "N08-001",
+                    "websiteUrl": "www.anovastudio.com",
+                    "address": {
+                        "type": "HOME",
+                        "street": "128 Rue du Faubourg Saint-Honor\u00e9",
+                        "city": "Paris",
+                        "zipCode": "75008",
+                        "state": null,
+                        "country": "France"
+                    },
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#smartcities",
+                        "#artificialintelligence",
+                        "#data",
+                        "#nexttechs",
+                        "#startupacademy"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk3Njg=",
+                    "name": "AntidoteDB",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/774068ce40e2fce99c139b24ba3182c499959b56.jpeg",
+                    "description": "AntidoteDB and its associated Just-Right Consistency (JRC) tools are designed to support planet-scale cloud services and always-on applications.",
+                    "booth": "D31-007",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#finance\u0026insurance",
+                        "#health\u0026wellbeing",
+                        "#retail\u0026ecommerce",
+                        "#telco"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzEyNDQw",
+                    "name": "Anyces ",
+                    "logoUrl": null,
+                    "description": "Connected car park access control",
+                    "booth": "D16-001",
+                    "websiteUrl": null,
+                    "address": null,
+                    "socialNetworks": [],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 0
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                },
+                {
+                    "id": "RXhoaWJpdG9yXzk1OTk=",
+                    "name": "Apizee",
+                    "logoUrl": "https://cdn-api.swapcard.com/public/images/855a01cc27a678dce8f746e076ee26e2629330b6.jpeg",
+                    "description": "Apizee delivers WebRTC-based development platform and integrated SaaS solutions for customer engagement, video assistance and real-time multimedia collaboration. ",
+                    "booth": "M07-003",
+                    "websiteUrl": "www.apizee.com",
+                    "address": null,
+                    "socialNetworks": [
+                        {
+                            "type": "TWITTER",
+                            "value": "@apizee"
+                        }
+                    ],
+                    "phoneNumbers": [],
+                    "exhibitorStatus": "NOT_MEMBER",
+                    "categories": [
+                        "#b2bservices",
+                        "#finance\u0026insurance",
+                        "#industry",
+                        "#AR\u0026VR",
+                        "#IoT"
+                    ],
+                    "teamMembers": {
+                        "pageInfo": {
+                            "totalEdges": 4
+                        }
+                    },
+                    "event": {
+                        "id": "RXZlbnRfNzgwNA==",
+                        "isMapUnlocked": true
+                    }
+                }
+            ]
+        }
+    }
+}
