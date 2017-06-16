@@ -10,5 +10,9 @@ export class HomePage {
   constructor(public navCtrl: NavController) {
 
   }
+  
+  goToVideo(){
+    this.navCtrl.push("VideoPage");
+  }
 
 }
