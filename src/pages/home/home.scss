@@ -1,9 +1,14 @@
 page-home {
-  ion-content{
-    background-image:  url("../../assets/img/Map-Bitmap.png");
+  
+    background-image: url("../../assets/img/Map-Bitmap.png");
+    background-repeat: no-repeat;
+    background-size: 1600px auto;
+    background-position: -400px -400px;
+  
+  ion-content {
   }
 }
 
-.toolbar-ios ion-title{
+.toolbar-ios ion-title {
   padding: 0 40px 1px;
 }
