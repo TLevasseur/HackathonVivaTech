@@ -1,0 +1,82 @@
+[
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/accorhotels.png",
+    "name": "AccorHotels"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/airfrance.png",
+    "name": "Air France"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/airbus.png",
+    "name": "Airbus"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/bnpparibas.png",
+    "name": "BNP Paribas"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/carrefour.png",
+    "name": "Carrefour"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/cicsco.png",
+    "name": "Cisco"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/engie.png",
+    "name": "Engie"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/laposte.png",
+    "name": "La Poste"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/lvmh.png",
+    "name": "LVMH"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/manpower.png",
+    "name": "Manpower"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/orange.png",
+    "name": "Orange"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/pmu.png",
+    "name": "PMU"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/ratp.png",
+    "name": "RATP"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/sanofi.png",
+    "name": "Sanofi"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/sncf.png",
+    "name": "SNCF"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/sodexo.png",
+    "name": "Sodexo"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/talan.png",
+    "name": "Talan"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/tf1.png",
+    "name": "TF1"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/valeo.png",
+    "name": "Valeo"
+  },
+  {
+    "logoUrl": "https://cdn-api.swapcard.com/public/images/partners/vinci.png",
+    "name": "Vinci Energies"
+  }
+]
