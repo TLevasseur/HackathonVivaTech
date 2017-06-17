@@ -19,14 +19,19 @@
 
 
   <div class="fake-content">
-    <button ion-button (click)="goToVideo(1)">Video</button>
+    <!--<button ion-button (click)="goToVideo(1)">Video</button>-->
     <div class=draw-area>
       
       <img class="location-icon" src="assets/img/location_icon.png">
       <div class=inner-circle></div>
       <div class=outer-circle></div>
-      <bubble></bubble>
-
+      
+      <div id=bubble1 class=bubble-small><img src="../../assets/img/lvmh.png" (click)="goToVideo(1)">1</div>
+      <div id=bubble2 class=bubble-small><img src="../../assets/img/lvmh.png" (click)="goToVideo(2)">2</div>
+      <div id=bubble3 class=bubble-small><img src="../../assets/img/lvmh.png" (click)="goToVideo(3)">3</div>
+      <div id=bubble4 class=bubble-small><img src="../../assets/img/lvmh.png" (click)="goToVideo(4)">4</div>
+      <div id=bubble5 class=bubble-large (click)="goToVideo(5)"><img src="../../assets/img/lvmh.png" >5</div>
+      
     </div>
 
     <img class="bottom-text" src="assets/img/baseline.png">

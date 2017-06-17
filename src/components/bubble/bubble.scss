@@ -1,8 +1,10 @@
-bubble {
-  .bubble{
+bubble-component {
+  .bubble{    
     position: absolute;
     border: 3px solid #FFF;
     background: #FFF;
     border-radius: 50%;
+    width: 60px;
+    height: 60px;
   }
 }

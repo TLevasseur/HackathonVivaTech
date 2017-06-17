@@ -7,15 +7,14 @@ import { Component } from '@angular/core';
  * for more info on Angular Components.
  */
 @Component({
-  selector: 'bubble',
+  selector: 'bubble-component',
   templateUrl: 'bubble.html'
 })
 export class BubbleComponent {
 
   text: string;
-  top: "100px";
-  left: "100px";
-  size: "60px";
+  top: 100;
+  left: 100;
 
   constructor() {
     console.log('Hello BubbleComponent Component');

@@ -1,6 +1,7 @@
-import { NgModule } from '@angular/core';
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { IonicPageModule } from 'ionic-angular';
 import { HomePage } from './home';
+import { BubbleComponent } from '../../components/bubble/bubble';
 
 @NgModule({
   declarations: [
@@ -10,7 +11,8 @@ import { HomePage } from './home';
     IonicPageModule.forChild(HomePage),
   ],
   exports: [
-    HomePage
-  ]
+    HomePage,BubbleComponent
+  ], 
+  schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class HomePageModule {}

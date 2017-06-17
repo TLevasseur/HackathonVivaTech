@@ -1,5 +1,5 @@
 import{Component}from'@angular/core';
-import {NavController , IonicPage}from 'ionic-angular';
+import {NavController, NavParams, IonicPage}from 'ionic-angular';
 
 @IonicPage()
 @Component({
@@ -8,7 +8,7 @@ import {NavController , IonicPage}from 'ionic-angular';
 })
 export class HomePage {
 
-    constructor(public navCtrl: NavController) {
+  constructor(public navCtrl: NavController, public navParams: NavParams) {
         /*var socket = null;
         var serverAddress : string = 'http://mapwize-cmx-server-vivatech2017-dev.azurewebsites.net/';
         startSocket();
@@ -37,5 +37,7 @@ export class HomePage {
     goToVideo(i : number){
         this.navCtrl.push("VideoPage", { id: i, name: "oss117", logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57VHGEzyp0HL477Ij4vHCdTTr4IAIuKvgQoENBTQlfazkF5kCfy91TOGf"});
     }
+  
+  
 
 }
