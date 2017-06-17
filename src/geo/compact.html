@@ -50,7 +50,7 @@
 
 
 
-  socket = null;
+   socket = null;
    var serverAddress = 'http://mapwize-cmx-server-vivatech2017-dev.azurewebsites.net/';
 
 
@@ -64,9 +64,9 @@
    socket.on('connect', function () {
    console.log('connect');
 
-   /!*var addresses = _.reduce(self.users, function (result, user) {
+   /!var addresses = _.reduce(self.users, function (result, user) {
    return _.union(result, [user.address]);
-   }, []);*!/
+   }, []);!/
 
    socket.emit('addresses', { address: '10.102.163.5'});
    });
