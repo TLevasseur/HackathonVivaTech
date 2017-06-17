@@ -14,11 +14,11 @@ import {IonicPage, NavController, NavParams}from 'ionic-angular';
 })
 export class VideoPage {
 
-  i : number;
+  url : Url;
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
-    this.i = navParams.get("id");
-    console.log(this.i);
+    var i = navParams.get("id");
+    this.url = VIDEOS.filter( (e : Url) => e.id == i)[0];
   }
 
   ionViewDidLoad() {
@@ -26,3 +26,18 @@ export class VideoPage {
   }
 
 }
+
+
+export class Url{
+  id : number;
+  url : string;
+}
+
+/* Should be mapped from json file or something...*/
+export const VIDEOS= [
+  {
+    "id": 1,
+    "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/habilebill.mp4?alt=media&token=aa081f88-9a4c-4f9a-be40-da2fa1dc67bb"
+  }
+];
+
