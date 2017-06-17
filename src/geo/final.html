@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-material/angular-material.css"/>
+    <link rel="stylesheet" href="assets/mapwize.css"/>
+    <link rel="stylesheet" href="assets/app.css"/>
+
+</head>
+
+<!--
+<body ng-app="starterApp" layout="column" ng-controller="UserController as ul" ng-cloak>-->
+<body>
+
+
+</div>
+
+
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular/angular.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-animate/angular-animate.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-aria/angular-aria.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-material/angular-material.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/socket.io-client/dist/socket.io.js"></script>
+
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/app/sdk/mapwize.js"></script>
+
+
+<script type="text/javascript" src="Users.js"></script>
+<script type="text/javascript" src="UserController.js"></script>
+
+
+<script type="text/javascript">
+
+
+
+
+    socket = null;
+    var serverAddress = 'http://mapwize-cmx-server-vivatech2017-dev.azurewebsites.net/';
+
+
+
+    startSocket();
+    function startSocket() {
+        self.socket = io(serverAddress);
+
+        self.socket.on('position', receivePosition);
+
+        self.socket.on('connect', function () {
+            console.log('connect');
+
+            console.log("users " + JSON.stringify( self.users, null, 4));
+
+
+            var a = '{"10.102.163.5": {"name": "Amar","avatar": "mathieu", "address": "10.102.163.5"}}';
+
+            var b = JSON.parse(a);
+
+            var addresses = _.reduce(b, function (result, b) {
+                return _.union(result, [b.address]);
+            }, []);
+
+            console.log("addresses " + addresses);
+            self.socket.emit('addresses', addresses);
+        });
+    }
+
+    function receivePosition(position) {
+
+        var pos = position.position;
+
+        lat = pos.latitude;
+        lng = pos.longitude;
+
+        console.log('lat ' + lat);
+        console.log('lng ' + lng);
+    }
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
