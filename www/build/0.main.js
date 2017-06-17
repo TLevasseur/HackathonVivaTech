@@ -84,9 +84,9 @@ var VideoPage = (function () {
 VideoPage = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicPage */])(),
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({
-        selector: 'page-video',template:/*ion-inline-start:"C:\Users\Thibaud\Documents\GitHub\HackathonVivaTech\src\pages\video\video.html"*/'<ion-header>\n\n  <ion-navbar>\n    <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png">\n    <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png">\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content fullscreen>\n  <h1>{{url.name}}</h1>\n    <!--<img src="{{logoAddress}}"/>-->\n  <video controls class="video_content" width="360" height="500">\n    <source\n      src="{{url.url}}"\n      type=\'video/mp4\'/>\n  </video>\n</ion-content>\n'/*ion-inline-end:"C:\Users\Thibaud\Documents\GitHub\HackathonVivaTech\src\pages\video\video.html"*/,
+        selector: 'page-video',template:/*ion-inline-start:"C:\opt\HackathonVivaTech\src\pages\video\video.html"*/'<ion-header>\n\n\n\n  <ion-navbar>\n\n    <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png">\n\n    <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png">\n\n  </ion-navbar>\n\n\n\n</ion-header>\n\n\n\n\n\n\n\n<ion-content fullscreen>\n\n  <h1>{{url.name}}</h1>\n\n    <!--<img src="{{logoAddress}}"/>-->\n\n  <video controls class="video_content" width="360" height="500">\n\n    <source\n\n      src="{{url.url}}"\n\n      type=\'video/mp4\'/>\n\n  </video>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\opt\HackathonVivaTech\src\pages\video\video.html"*/,
     }),
-    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]])
+    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]) === "function" && _b || Object])
 ], VideoPage);
 
 var Url = (function () {
@@ -145,6 +145,7 @@ var VIDEOS = [
         "name": "easy"
     }
 ];
+var _a, _b;
 //# sourceMappingURL=video.js.map
 
 /***/ })
