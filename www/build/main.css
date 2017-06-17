@@ -24829,13 +24829,14 @@ page-home .bubble-small {
   border: 3px solid #FFF;
   background: #FFF;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 65px;
+  height: 65px;
 }
 
 page-home .bubble-small img {
   position: relative;
-  width: "50px";
+  width: 47px;
+  max-height: 47px;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -24847,13 +24848,14 @@ page-home .bubble-large {
   border: 3px solid #FFF;
   background: #FFF;
   border-radius: 50%;
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
 }
 
 page-home .bubble-large img {
   position: relative;
-  width: "70px";
+  max-height: 60px;
+  width: 60px;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
