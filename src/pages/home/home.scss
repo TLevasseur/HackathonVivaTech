@@ -1,20 +1,18 @@
 page-home {
-  .moving-map {
-    position:absolute;
-    background-image: url("../../assets/img/Map-Bitmap.png");
+  #moving-map {
+    position:fixed;
+    //background-image: url("../../assets/img/Map-Bitmap.png");
     // background-image: url("assets/img/Map-Bitmap.png");
     height: 100%;
     width: 100%;
-    background-repeat: no-repeat;
-    background-size: 1400px auto;
-    background-position: -400px -200px;
+    z-index: -1;
   }
   .orange-gradient {
     position: absolute;
     height: 100%;
     width: 100%;
     background-image: linear-gradient(-225deg, #F25D56 0%, #E8970C 100%);
-    opacity: 0.90;
+    opacity: 0.50;
   }
   .vivateck-logo{
     height: 40px;
@@ -30,8 +28,9 @@ page-home {
     position: relative;
   }
   .fake-content {
-    padding: 80px 20px 10px 20px;
+    padding: 30px 20px 10px 20px;
     position: relative;
+
   }
   .bottom-text{
     position:fixed;
@@ -71,7 +70,7 @@ page-home {
   /*bubble-component{
     position: relative;
   }*/
-  
+/*
   .bubble-small {
     position: absolute;
     border: 3px solid #FFF;
@@ -79,16 +78,16 @@ page-home {
     border-radius: 50%;
     width: 60px;
     height: 60px;
-    
+
     img{
       position: relative;
       width: "50px";
       top:50%;
       left:50%;
-      transform: translate(-50%, -50%);       
+      transform: translate(-50%, -50%);
     }
   }
-  
+
   .bubble-large {
     position: absolute;
     border: 3px solid #FFF;
@@ -96,39 +95,51 @@ page-home {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    
+
     img{
       position: relative;
       width: "70px";
       top:50%;
       left:50%;
-      transform: translate(-50%, -50%);       
+      transform: translate(-50%, -50%);
     }
   }
-  
+
   #bubble1{
     top: -10px;
     left: 100px;
   }
-  
+
   #bubble2{
     top: 70px;
     left:-5px;
   }
-  
+
   #bubble3{
     top: 30px;
     left: 240px;
   }
-  
+
   #bubble4{
     top: 230px;
     left: 28px;
   }
-  
+
   #bubble5{
     top: 230px;
     left: 230px;
-  }
-  
+  }*/
+
+}
+
+#mymap{
+  background: #000000;
+  position: absolute;
+  width:500px;
+  height: 900px;
+
+}
+
+img {
+  max-width: inherit !important;
 }

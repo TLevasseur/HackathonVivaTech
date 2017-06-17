@@ -55905,11 +55905,12 @@ var HomePage = (function () {
 HomePage = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicPage */])(),
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({
-        selector: 'page-home',template:/*ion-inline-start:"C:\opt\HackathonVivaTech\src\pages\home\home.html"*/'<!--<ion-header>\n\n  <ion-navbar>\n\n    <ion-title>\n\n      <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png" >\n\n      <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png" >\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>-->\n\n\n\n<ion-content fullscreen>\n\n\n\n  <div class="moving-map"></div>\n\n  <div class="orange-gradient"></div>\n\n\n\n  <div class="fake-header">\n\n    <img class="vivateck-logo" height="30" src="assets/img/viva_tech_logo.png">\n\n    <img class="logo" src="assets/img/nelson_logo_white.png">\n\n  </div>\n\n\n\n\n\n  <div class="fake-content">\n\n    <!--<button ion-button (click)=\'goToVideo("593ec7cd2d8a020010aa123b")\'>Video</button>-->\n\n\n\n    <div class=draw-area>\n\n\n\n      <img class="location-icon" src="assets/img/location_icon.png">\n\n      <div class=inner-circle></div>\n\n      <div class=outer-circle></div>\n\n\n\n      <div id=bubble1 class=bubble-small><img src="../../assets/img/ladiv.jpg" (click)="goToVideo(\'593ec7cd2d8a020010aa123b\')"></div>\n\n      <div id=bubble2 class=bubble-small><img src="../../assets/img/loreal.jpg" (click)="goToVideo(\'593fcf9e4967d8001028eb6e\')"></div>\n\n      <div id=bubble3 class=bubble-small><img src="../../assets/img/lvmh.png" (click)="goToVideo(\'593ec7e66f4e0f001072ab00\')"></div>\n\n      <div id=bubble4 class=bubble-small><img src="../../assets/img/reeport.png" (click)="goToVideo(\'593ec7b1bc296100109aef6e\')"></div>\n\n      <div id=bubble5 class=bubble-large (click)="goToVideo(\'593ec7d880db880010c75b46\')"><img src="../../assets/img/widilo.jpg"></div>\n\n\n\n    </div>\n\n\n\n    <img class="bottom-text" src="assets/img/baseline.png">\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\opt\HackathonVivaTech\src\pages\home\home.html"*/
+        selector: 'page-home',template:/*ion-inline-start:"/Users/amar/WebstormProjects/HackathonVivaTech2/src/pages/home/home.html"*/'<!--<ion-header>\n  <ion-navbar>\n    <ion-title>\n      <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png" >\n      <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png" >\n    </ion-title>\n  </ion-navbar>\n</ion-header>-->\n\n<ion-content fullscreen>\n\n  <div class="moving-map" id="moving-map" ></div>\n  <div class="orange-gradient" id="orange-gradient"></div>\n\n  <div class="fake-header">\n    <img class="vivateck-logo" height="30" src="assets/img/viva_tech_logo.png">\n    <img class="logo" src="assets/img/nelson_logo_white.png">\n  </div>\n\n\n  <div class="fake-content">\n    <!--<button ion-button (click)=\'goToVideo("593ec7cd2d8a020010aa123b")\'>Video</button>-->\n\n    <div class=draw-area>\n\n      <img class="location-icon" src="assets/img/location_icon.png">\n      <div class=inner-circle></div>\n      <div class=outer-circle></div>\n\n      <div id=bubble1 class=bubble-small><img src="../../assets/img/ladiv.jpg" (click)="goToVideo(\'593ec7cd2d8a020010aa123b\')"></div>\n      <div id=bubble2 class=bubble-small><img src="../../assets/img/loreal.jpg" (click)="goToVideo(\'593fcf9e4967d8001028eb6e\')"></div>\n      <div id=bubble3 class=bubble-small><img src="../../assets/img/lvmh.png" (click)="goToVideo(\'593ec7e66f4e0f001072ab00\')"></div>\n      <div id=bubble4 class=bubble-small><img src="../../assets/img/reeport.png" (click)="goToVideo(\'593ec7b1bc296100109aef6e\')"></div>\n      <div id=bubble5 class=bubble-large (click)="goToVideo(\'593ec7d880db880010c75b46\')"><img src="../../assets/img/widilo.jpg"></div>\n\n    </div>\n\n    <img class="bottom-text" src="assets/img/baseline.png">\n  </div>\n</ion-content>\n\n\n\n\n\n'/*ion-inline-end:"/Users/amar/WebstormProjects/HackathonVivaTech2/src/pages/home/home.html"*/
     }),
-    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]])
+    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]) === "function" && _b || Object])
 ], HomePage);
 
+var _a, _b;
 //# sourceMappingURL=home.js.map
 
 /***/ }),
@@ -74319,9 +74320,9 @@ webpackAsyncContext.id = 191;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(47);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__ = __webpack_require__(101);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ionic_native_status_bar__ = __webpack_require__(102);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__app_component__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__app_component__ = __webpack_require__(194);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_home_home__ = __webpack_require__(97);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_bubble_bubble__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_bubble_bubble__ = __webpack_require__(195);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -74565,45 +74566,6 @@ var platformBrowserDynamic = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BubbleComponent; });
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-/**
- * Generated class for the BubbleComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
-var BubbleComponent = (function () {
-    function BubbleComponent() {
-        console.log('Hello BubbleComponent Component');
-        this.text = 'Hello World';
-    }
-    return BubbleComponent;
-}());
-BubbleComponent = __decorate([
-    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({
-        selector: 'bubble-component',template:/*ion-inline-start:"C:\opt\HackathonVivaTech\src\components\bubble\bubble.html"*/'<!-- Generated template for the BubbleComponent component -->\n<div class=bubble [style.top]="top" [style.left]="left" [style.width]="size" [style.height]="size" >\n  \n</div>\n'/*ion-inline-end:"C:\opt\HackathonVivaTech\src\components\bubble\bubble.html"*/
-    }),
-    __metadata("design:paramtypes", [])
-], BubbleComponent);
-
-//# sourceMappingURL=bubble.js.map
-
-/***/ }),
-/* 195 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(47);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__ = __webpack_require__(102);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__ = __webpack_require__(101);
@@ -74636,12 +74598,51 @@ var MyApp = (function () {
     return MyApp;
 }());
 MyApp = __decorate([
-    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({template:/*ion-inline-start:"C:\opt\HackathonVivaTech\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n\n'/*ion-inline-end:"C:\opt\HackathonVivaTech\src\app\app.html"*/
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({template:/*ion-inline-start:"/Users/amar/WebstormProjects/HackathonVivaTech2/src/app/app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"/Users/amar/WebstormProjects/HackathonVivaTech2/src/app/app.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* Platform */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */]])
 ], MyApp);
 
 //# sourceMappingURL=app.component.js.map
+
+/***/ }),
+/* 195 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BubbleComponent; });
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the BubbleComponent component.
+ *
+ * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
+ * for more info on Angular Components.
+ */
+var BubbleComponent = (function () {
+    function BubbleComponent() {
+        console.log('Hello BubbleComponent Component');
+        this.text = 'Hello World';
+    }
+    return BubbleComponent;
+}());
+BubbleComponent = __decorate([
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({
+        selector: 'bubble-component',template:/*ion-inline-start:"/Users/amar/WebstormProjects/HackathonVivaTech2/src/components/bubble/bubble.html"*/'<!-- Generated template for the BubbleComponent component -->\n<div class=bubble [style.top]="top" [style.left]="left" [style.width]="size" [style.height]="size" >\n  \n</div>\n'/*ion-inline-end:"/Users/amar/WebstormProjects/HackathonVivaTech2/src/components/bubble/bubble.html"*/
+    }),
+    __metadata("design:paramtypes", [])
+], BubbleComponent);
+
+//# sourceMappingURL=bubble.js.map
 
 /***/ }),
 /* 196 */

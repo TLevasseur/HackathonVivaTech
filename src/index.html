@@ -10,7 +10,9 @@
   <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#4e8ef7">
- 
+
+  <link href="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/app/sdk/mapwize.css" rel="stylesheet">
+
   <!-- cordova.js required for cordova apps -->
   <script src="cordova.js"></script>
 
@@ -29,7 +31,7 @@
 <body>
 
   <!-- Ionic's root component and where the app will load -->
-  <ion-app></ion-app>
+  <ion-app id = "test"></ion-app>
 
   <!-- The polyfills js is generated during the build process -->
   <script src="build/polyfills.js"></script>
@@ -37,5 +39,142 @@
   <!-- The bundle js is generated during the build process -->
   <script src="build/main.js"></script>
 
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+  <script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/socket.io-client/dist/socket.io.js"></script>
+
+  <script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/app/sdk/mapwize.js"></script>
+
+
+
+
+  <script type="text/javascript">
+
+
+      //do work
+
+
+
+    mwzMap = null;
+    socket = null;
+    markers = {};
+    var serverAddress = 'http://mapwize-cmx-server-vivatech2017-dev.azurewebsites.net/';
+
+    var a = '{"10.102.163.5": {"name": "Amar","avatar": "mathieu", "address": "10.102.163.5"}}';
+
+    var users = JSON.parse(a);
+
+
+
+    init();
+    startSocket();
+    function startSocket() {
+      self.socket = io(serverAddress);
+
+      self.socket.on('position', receivePosition);
+
+      self.socket.on('connect', function () {
+        console.log('connect');
+
+        console.log("users " + JSON.stringify( self.users, null, 4));
+
+
+
+
+        var addresses = _.reduce(users, function (result, users) {
+          return _.union(result, [users.address]);
+        }, []);
+
+        console.log("addresses " + addresses);
+        self.socket.emit('addresses', addresses);
+      });
+    }
+
+    function receivePosition(position) {
+
+      var user = self.users[position.address];
+      if (user) {
+        var p = position.position;
+        user.lastReceivePos = position.position.timestamp;
+
+        var latLng = L.latLng(p.latitude, p.longitude);
+
+        if (!self.markers[position.address]) {
+
+          self.markers[position.address] = new L.marker(latLng, {
+            icon: L.icon({
+              iconUrl: 'http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/app/assets/avatars/charles.png',
+              iconSize: [30, 30],
+              iconAnchor: [15, 15],
+              className: 'markerAvatar'
+            }),
+            riseOnHover: true
+          }).addTo(self.mwzMap);
+
+          mwzMap.centerOnCoordinates(position.position.latitude, position.position.longitude, 0, 19);
+
+
+
+
+
+        }
+        else {
+          self.markers[position.address].setLatLng(latLng);
+        }
+
+      }
+
+      var pos = position.position;
+
+      lat = pos.latitude;
+      lng = pos.longitude;
+
+      console.log('lat ' + lat);
+      console.log('lng ' + lng);
+    }
+
+    /* ADDING MAGIC CARD, FUCK YEAAAAAAH >:( */
+
+
+
+    /**
+     * Init mapwize map
+     */
+    function init() {
+
+      Mapwize.map('moving-map', {
+        apiKey: 'ContexeoDevAppAPIKEY',
+
+
+        //accessKey: 'MkmZlWWxq3xkPTaF'
+      }, function (err, mapInstance) {
+        // This callback is called when the map is initialized (Or if there is an error during initialization)
+
+        if (err) {
+          console.error('An error occur during map initialization', err);
+        }
+        else {
+          console.log('map is now loaded');
+
+          self.mwzMap = mapInstance;
+
+          self.mwzMap.centerOnVenue('590061774ddeb5001071af4b');
+          self.mwzMap.setZoom(21);
+
+
+
+        }
+      });
+
+    }
+
+
+
+
+
+
+
+
+  </script>
 </body>
 </html>
