@@ -84,9 +84,9 @@ var VideoPage = (function () {
 VideoPage = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicPage */])(),
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({
-        selector: 'page-video',template:/*ion-inline-start:"C:\opt\HackathonVivaTech\src\pages\video\video.html"*/'<ion-header>\n\n\n\n  <ion-navbar>\n\n    <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png">\n\n    <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png">\n\n  </ion-navbar>\n\n\n\n</ion-header>\n\n\n\n\n\n\n\n<ion-content fullscreen>\n\n  <h1>{{name}}</h1>\n\n    <img src="{{logoAddress}}"/>\n\n  <video controls class="video_content" width="360" height="500">\n\n    <source\n\n      src="{{url.url}}"\n\n      type=\'video/mp4\'/>\n\n  </video>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\opt\HackathonVivaTech\src\pages\video\video.html"*/,
+        selector: 'page-video',template:/*ion-inline-start:"C:\Users\Thibaud\Documents\GitHub\HackathonVivaTech\src\pages\video\video.html"*/'<ion-header>\n\n  <ion-navbar>\n    <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png">\n    <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png">\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content fullscreen>\n  <h1>{{url.name}}</h1>\n    <!--<img src="{{logoAddress}}"/>-->\n  <video controls class="video_content" width="360" height="500">\n    <source\n      src="{{url.url}}"\n      type=\'video/mp4\'/>\n  </video>\n</ion-content>\n'/*ion-inline-end:"C:\Users\Thibaud\Documents\GitHub\HackathonVivaTech\src\pages\video\video.html"*/,
     }),
-    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]) === "function" && _b || Object])
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]])
 ], VideoPage);
 
 var Url = (function () {
@@ -109,34 +109,42 @@ easy
 var VIDEOS = [
     {
         "id": "1",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/habilebill.mp4?alt=media&token=aa081f88-9a4c-4f9a-be40-da2fa1dc67bb"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/habilebill.mp4?alt=media&token=aa081f88-9a4c-4f9a-be40-da2fa1dc67bb",
+        "name": "OSS117"
     }, {
         "id": "593ec7cd2d8a020010aa123b",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/Ladiv.MP4?alt=media&token=6da129ed-0735-4e77-9f2b-15e7e4bc89bc"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/Ladiv.MP4?alt=media&token=6da129ed-0735-4e77-9f2b-15e7e4bc89bc",
+        "name": "Ladiv"
     }, {
         "id": "593fcf9e4967d8001028eb6e",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/lOreal.MP4?alt=media&token=13a99afc-8d0b-4f5d-8e2c-87545a16a216"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/lOreal.MP4?alt=media&token=13a99afc-8d0b-4f5d-8e2c-87545a16a216",
+        "name": "lOreal"
     }, {
         "id": "593ec7e66f4e0f001072ab00",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/LVMH.MP4?alt=media&token=de3bedbb-28dc-452e-8afa-36b65057b652"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/LVMH.MP4?alt=media&token=de3bedbb-28dc-452e-8afa-36b65057b652",
+        "name": "LVMH"
     }, {
         "id": "593ec7b1bc296100109aef6e",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/Reeport.MP4?alt=media&token=f2ceecac-07fb-4d41-9a9e-50d0f5ccc8fd"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/Reeport.MP4?alt=media&token=f2ceecac-07fb-4d41-9a9e-50d0f5ccc8fd",
+        "name": "Reeport"
     }, {
         "id": "-1",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/RtRobotic.MP4?alt=media&token=639771c0-d1d0-411d-9c06-ef92dbbbc06b"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/RtRobotic.MP4?alt=media&token=639771c0-d1d0-411d-9c06-ef92dbbbc06b",
+        "name": "RtRobotic"
     }, {
         "id": "593ec7d880db880010c75b46",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/Widilo.MP4?alt=media&token=05d80f54-a233-4fca-b49b-dacc66fe1792"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/Widilo.MP4?alt=media&token=05d80f54-a233-4fca-b49b-dacc66fe1792",
+        "name": "Widilo"
     }, {
         "id": "593fcf9fef3f86001a47e3fa",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/BNP.MP4?alt=media&token=b019e5ec-be4c-4c3f-9387-578debc4fca5"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/BNP.MP4?alt=media&token=b019e5ec-be4c-4c3f-9387-578debc4fca5",
+        "name": "BNP"
     }, {
         "id": "-1",
-        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/easy.MP4?alt=media&token=209845d4-572b-4abe-ac67-bbb107f69a2b"
+        "url": "https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/easy.MP4?alt=media&token=209845d4-572b-4abe-ac67-bbb107f69a2b",
+        "name": "easy"
     }
 ];
-var _a, _b;
 //# sourceMappingURL=video.js.map
 
 /***/ })
