@@ -1,25 +1,19 @@
-<!--
-  Generated template for the VideoPage page.
-
-  See http://ionicframework.com/docs/components/#navigation for more info on
-  Ionic pages and navigation.
--->
 <ion-header>
 
   <ion-navbar>
-    <ion-title>video</ion-title>
+    <img style="float:left;" alt="vivateck" height="30" src="assets/img/viva_tech_logo.png">
+    <img style="float:right;" alt="logo" height="18" src="assets/img/nelson_logo_white.png">
   </ion-navbar>
 
 </ion-header>
 
 
-<ion-content padding>
 
-  <ion-content class="has-header" padding="true">
-    <video controls class="video_content" width="320" height="240">
-      <source src="https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/habilebill.mp4?alt=media&token=aa081f88-9a4c-4f9a-be40-da2fa1dc67bb" type='video/mp4' />
-    </video>
-  </ion-content>
-
-
+<ion-content fullscreen>
+  <h1>{{i}}</h1>
+  <video controls class="video_content" width="360" height="260">
+    <source
+      src="https://firebasestorage.googleapis.com/v0/b/nelson-88332.appspot.com/o/habilebill.mp4?alt=media&token=aa081f88-9a4c-4f9a-be40-da2fa1dc67bb"
+      type='video/mp4'/>
+  </video>
 </ion-content>

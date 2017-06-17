@@ -10,9 +10,9 @@ export class HomePage {
   constructor(public navCtrl: NavController) {
 
   }
-  
-  goToVideo(){
-    this.navCtrl.push("VideoPage");
+
+  goToVideo(i : number){
+    this.navCtrl.push("VideoPage", { id: i});
   }
 
 }
