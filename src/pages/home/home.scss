@@ -1,14 +1,43 @@
 page-home {
-  
+  .mouving-map {
+    position:absolute;
     background-image: url("../../assets/img/Map-Bitmap.png");
+    height: 100%;
+    width: 100%;
     background-repeat: no-repeat;
-    background-size: 1600px auto;
-    background-position: -400px -400px;
-  
-  ion-content {
+    background-size: 1400px auto;
+    background-position: -400px -200px;
   }
-}
-
-.toolbar-ios ion-title {
-  padding: 0 40px 1px;
+  .orange-gradient {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(-225deg, #F25D56 0%, #E8970C 100%);
+    opacity: 0.90;
+  }
+  .vivateck-logo{
+    height: 40px;
+  }
+  .logo{
+    float: right;
+    height: 20px;
+  }
+  .fake-header {
+    padding: 20px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0));
+    height: 74px;
+    position: relative;
+  }
+  .fake-content {
+    padding: 30px 20px 10px 20px;
+    position: relative;
+  }
+  .location-icon{
+    height: 90px;
+  }
+  .bottom-text{
+    position:fixed;
+    bottom: 30px;
+    left: 0px;
+  }
 }
