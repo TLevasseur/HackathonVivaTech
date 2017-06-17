@@ -7,21 +7,28 @@
   </ion-navbar>
 </ion-header>-->
 
-<ion-content fullsreen >
-  
-  <div class="mouving-map"></div>
+<ion-content fullscreen>
+
+  <div class="moving-map"></div>
   <div class="orange-gradient"></div>
-  
+
   <div class="fake-header">
     <img class="vivateck-logo" height="30" src="assets/img/viva_tech_logo.png">
     <img class="logo" src="assets/img/nelson_logo_white.png">
   </div>
-  
-  
+
+
   <div class="fake-content">
     <button ion-button (click)="goToVideo(1)">Video</button>
-     <img class="location-icon" src="assets/img/location_icon.png">
-  
+    <div class=draw-area>
+      
+      <img class="location-icon" src="assets/img/location_icon.png">
+      <div class=inner-circle></div>
+      <div class=outer-circle></div>
+      <bubble></bubble>
+
+    </div>
+
     <img class="bottom-text" src="assets/img/baseline.png">
   </div>
 </ion-content>

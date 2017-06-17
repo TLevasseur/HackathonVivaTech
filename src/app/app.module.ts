@@ -6,11 +6,13 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
+import { BubbleComponent } from '../components/bubble/bubble';
 
 @NgModule({
   declarations: [
     MyApp,
-    HomePage
+    HomePage,
+    BubbleComponent
   ],
   imports: [
     BrowserModule,
