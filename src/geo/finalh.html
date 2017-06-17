@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-material/angular-material.css"/>
+    <link rel="stylesheet" href="assets/mapwize.css"/>
+    <link rel="stylesheet" href="assets/app.css"/>
+
+</head>
+
+<!--
+<body ng-app="starterApp" layout="column" ng-controller="UserController as ul" ng-cloak>-->
+<body>
+
+
+</div>
+
+
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular/angular.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-animate/angular-animate.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-aria/angular-aria.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/angular-material/angular-material.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/node_modules/socket.io-client/dist/socket.io.js"></script>
+
+<script type="text/javascript" src="http://mapwize-cmx-vivatech2017-demo.azurewebsites.net/app/sdk/mapwize.js"></script>
+
+
+<script type="text/javascript" src="Users.js"></script>
+<script type="text/javascript" src="UserController.js"></script>
+
+<div id="mwzMap"></div>
+
+<script type="text/javascript">
+
+    
+
+
+    socket = null;
+    var serverAddress = 'http://mapwize-cmx-server-vivatech2017-dev.azurewebsites.net/';
+
+
+
+    startSocket();
+    function startSocket() {
+        self.socket = io(serverAddress);
+
+        self.socket.on('position', receivePosition);
+
+        self.socket.on('connect', function () {
+            console.log('connect');
+
+            console.log("users " + JSON.stringify( self.users, null, 4));
+
+
+            var a = '{"10.102.163.5": {"name": "Amar","avatar": "mathieu", "address": "10.102.163.5"}}';
+
+            var b = JSON.parse(a);
+
+            var addresses = _.reduce(b, function (result, b) {
+                return _.union(result, [b.address]);
+            }, []);
+
+            console.log("addresses " + addresses);
+            self.socket.emit('addresses', addresses);
+        });
+    }
+
+
+    function get_closest(lat, lon, k, fn){
+        Mapwize.map('mwzMap', {
+            apiKey: 'ContexeoDevAppAPIKEY',
+            accessKey: 'MkmZlWWxq3xkPTaF',
+            displayPlaces: true
+        }, function (err, mapInstance) {
+            // This callback is called when the map is initialized (Or if there is an error during initialization)
+            mapInstance.centerOnVenue('590061774ddeb5001071af4b')
+            function test(fn) {
+                Mapwize.Api.places.list({venueId:'590061774ddeb5001071af4b'}, function (err, places) {
+                    // places contain all places you can access
+                    places.forEach(function(p){
+                        dist=Math.sqrt(Math.pow(lat-p.marker.latitude, 2)+Math.pow(lon-p.marker.longitude, 2));
+                        p['distance']=dist;
+                    });
+                    places.sort(function compare(a, b) {
+                        return a.distance-b.distance;
+                    });
+
+                    fn(places.filter(p=>p.order>0).slice(0, k));
+                });
+            }
+            if (err) {
+                console.error('An error occured during map initialization', err);
+            }
+            else {
+                console.log('map is now loaded');
+                return test(fn);
+            }
+        }); 
+    }
+
+            //get_closest(48.83136634908699, 2.284433394670487, 10, function(liste) {console.log(liste);});
+
+
+
+    function receivePosition(position) {
+
+        var pos = position.position;
+
+        lat = pos.latitude;
+        lng = pos.longitude;
+
+        console.log('lat ' + lat);
+        console.log('lng ' + lng);
+
+        get_closest(lat, lng, 100, function(liste) {console.log(liste);});
+
+
+
+
+    }
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
